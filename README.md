@@ -118,5 +118,6 @@ Publish the merged_dataset.csv to Tableau and open Banking_Insights_Dashboard.tw
 
 Automate monthly refresh
 
-python automation/refresh_tableau.py<img width="1088" height="610" alt="image3" src="https://github.com/user-attachments/assets/6612cf0c-e5c0-437e-8e00-88e4ad91bdab" />
+python automation/refresh_tableau.py![img13](https://github.com/user-attachments/assets/c8253d5e-a9dc-4599-a9b8-223173e9ec76)
+
 <img width="1536" height="1024" alt="image (2)" src="https://github.com/user-attachments/assets/93eeb895-ec3e-4be2-a908-daaf295933d5" />
